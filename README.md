@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is a showcase and is in a very under maintained state. Don't consider coming to this repo for help with code, instead refer to [anariav2](https://github.com/yaans-coat/anariav2)
+
 # anaria!
 a sick web proxy
 
